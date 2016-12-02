@@ -1,3 +1,3 @@
 <component name="DependencyValidationManager">
-  <scope name="Source &amp; Test" pattern="file:src/*.es6||file:test/*.es6" />
+  <scope name="Source &amp; Test" pattern="file:src/*.js||file:test/*.js" />
 </component>

@@ -1,6 +1,7 @@
 # Project
 !.gitkeep
 dist/
+debug/
 test/moc-data/work/
 
 # Idea

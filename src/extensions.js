@@ -1,18 +1,20 @@
-'use strict';
+import fs from 'fs';
+import path from 'path';
 
-var _fs = require('fs');
-
-var _fs2 = _interopRequireDefault(_fs);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-_fs2.default.existsSync = function existsSync(filePath) {
-    try {
-        _fs2.default.statSync(filePath);
-    } catch (err) {
-        if (err.code == 'ENOENT') return false;
+fs.existsSync = function existsSync(filePath) {
+    try{
+        fs.statSync(filePath);
+    } catch(err) {
+        if(err.code == 'ENOENT') return false;
     }
     return true;
 };
 
-//# sourceMappingURL=extensions.js.map
+path.existsSync = function existsSync(dirPath) {
+    try {
+        let stats = fs.lstatSync(dirPath);
+        return stats.isDirectory();
+    } catch (e) {
+        return false;
+    }
+};

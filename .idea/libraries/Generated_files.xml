@@ -2,13 +2,20 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/src/extensions.js" />
-        <item url="file://$PROJECT_DIR$/test/test.jsondb.js" />
         <item url="file://$PROJECT_DIR$/src/db-connection.js" />
+        <item url="file://$PROJECT_DIR$/test/test.jsondb.js" />
         <item url="file://$PROJECT_DIR$/src/db-list.js" />
         <item url="file://$PROJECT_DIR$/src/main.js" />
+        <item url="file://$PROJECT_DIR$/debug/src/main.js" />
+        <item url="file://$PROJECT_DIR$/debug/test/dataCommon.js" />
         <item url="file://$PROJECT_DIR$/src/db-obj.js" />
+        <item url="file://$PROJECT_DIR$/debug/src/db-connection.js" />
         <item url="file://$PROJECT_DIR$/test/dataCommon.js" />
+        <item url="file://$PROJECT_DIR$/debug/src/db-list.js" />
+        <item url="file://$PROJECT_DIR$/debug/test/test.jsondb.js" />
+        <item url="file://$PROJECT_DIR$/debug/src/db-obj.js" />
+        <item url="file://$PROJECT_DIR$/src/extensions.js" />
+        <item url="file://$PROJECT_DIR$/debug/src/extensions.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -30,13 +37,20 @@
       <root url="file://$PROJECT_DIR$/src/list.js" />
       <root url="file://$PROJECT_DIR$/src/obj.js" />
       <root url="file://$PROJECT_DIR$/src/list.js" />
-      <root url="file://$PROJECT_DIR$/src/extensions.js" />
-      <root url="file://$PROJECT_DIR$/test/test.jsondb.js" />
       <root url="file://$PROJECT_DIR$/src/db-connection.js" />
+      <root url="file://$PROJECT_DIR$/test/test.jsondb.js" />
       <root url="file://$PROJECT_DIR$/src/db-list.js" />
       <root url="file://$PROJECT_DIR$/src/main.js" />
+      <root url="file://$PROJECT_DIR$/debug/src/main.js" />
+      <root url="file://$PROJECT_DIR$/debug/test/dataCommon.js" />
       <root url="file://$PROJECT_DIR$/src/db-obj.js" />
+      <root url="file://$PROJECT_DIR$/debug/src/db-connection.js" />
       <root url="file://$PROJECT_DIR$/test/dataCommon.js" />
+      <root url="file://$PROJECT_DIR$/debug/src/db-list.js" />
+      <root url="file://$PROJECT_DIR$/debug/test/test.jsondb.js" />
+      <root url="file://$PROJECT_DIR$/debug/src/db-obj.js" />
+      <root url="file://$PROJECT_DIR$/src/extensions.js" />
+      <root url="file://$PROJECT_DIR$/debug/src/extensions.js" />
     </CLASSES>
     <SOURCES />
   </library>
