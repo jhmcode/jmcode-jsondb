@@ -1,0 +1,30 @@
+{
+  "name": "jmcode-jsondb",
+  "version": "0.0.1",
+  "description": "NoSQL database that uses your local file system",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhmcode/jmcode-jsondb.git"
+  },
+  "keywords": [],
+  "author": "Jamey McElveen <jamey@mcelveen.us> (http://jameymcelveen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhmcode/jmcode-jsondb/issues"
+  },
+  "homepage": "https://github.com/jhmcode/jmcode-jsondb#readme",
+  "devDependencies": {
+    "babel-plugin-external-helpers": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "mocha": "^3.2.0",
+    "rollup": "^0.36.4",
+    "rollup-plugin-babel": "^2.6.1"
+  }
+}

@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/extensions.js" />
+        <item url="file://$PROJECT_DIR$/test/test.jsondb.js" />
+        <item url="file://$PROJECT_DIR$/src/db-connection.js" />
+        <item url="file://$PROJECT_DIR$/src/db-list.js" />
+        <item url="file://$PROJECT_DIR$/src/main.js" />
+        <item url="file://$PROJECT_DIR$/src/db-obj.js" />
+        <item url="file://$PROJECT_DIR$/test/dataCommon.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/src/index.es6.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.es6.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/jsondb.js" />
+      <root url="file://$PROJECT_DIR$/dist/rollup.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/jsondb.js" />
+      <root url="file://$PROJECT_DIR$/dist/rollup.config.js" />
+      <root url="file://$PROJECT_DIR$/test/test.js" />
+      <root url="file://$PROJECT_DIR$/test/test.js" />
+      <root url="file://$PROJECT_DIR$/test/test.data.js" />
+      <root url="file://$PROJECT_DIR$/test/test.data.js" />
+      <root url="file://$PROJECT_DIR$/src/jsondb-list.js" />
+      <root url="file://$PROJECT_DIR$/src/jsondb-list.js" />
+      <root url="file://$PROJECT_DIR$/src/obj.js" />
+      <root url="file://$PROJECT_DIR$/src/list.js" />
+      <root url="file://$PROJECT_DIR$/src/obj.js" />
+      <root url="file://$PROJECT_DIR$/src/list.js" />
+      <root url="file://$PROJECT_DIR$/src/extensions.js" />
+      <root url="file://$PROJECT_DIR$/test/test.jsondb.js" />
+      <root url="file://$PROJECT_DIR$/src/db-connection.js" />
+      <root url="file://$PROJECT_DIR$/src/db-list.js" />
+      <root url="file://$PROJECT_DIR$/src/main.js" />
+      <root url="file://$PROJECT_DIR$/src/db-obj.js" />
+      <root url="file://$PROJECT_DIR$/test/dataCommon.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

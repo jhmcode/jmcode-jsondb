@@ -1,9 +1,17 @@
+# Project
+!.gitkeep
+dist/
+test/moc-data/work/
+
+# Idea
+.idea/workspace.xml
+
 # Logs
 logs
 *.log
 npm-debug.log*
 
-# Runtime data
+# Runtime moc-data
 pids
 *.pid
 *.seed
